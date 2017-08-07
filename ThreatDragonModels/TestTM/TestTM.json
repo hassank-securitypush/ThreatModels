@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "TestTM",
+    "owner": "Hassan Khan",
+    "description": "Credit Card Integration"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DataFlow1.1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Keri"
+  }
+}
